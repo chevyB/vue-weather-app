@@ -1,7 +1,7 @@
 # weather-app
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/80734011/144842294-31f148a8-0ec1-4d47-9179-b9b235f7c205.png)
+![image](https://user-images.githubusercontent.com/80734011/144842447-c940d745-c4f8-4918-bd1d-7f5bee4fc022.png)
 
 
 ## Project setup
