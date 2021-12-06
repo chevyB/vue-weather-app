@@ -15,7 +15,7 @@
     
     <!--Img Col-->
     <div class="w-full lg:w-2/5 h-full flex items-center">
-      <div class="result-area rounded-none lg:rounded-lg shadow-2xl bg-white h-2/5 w-full opacity-75 py-10 px-8">
+      <div class="result-area rounded-none lg:rounded-lg shadow-2xl bg-white h-1/2 w-full opacity-75 py-10 px-8">
         <div class="text-5xl font-bold">{{getDate.weekday}}</div>
         <div class="">{{getDate.date}}</div>
         <div class="font-semibold text-xl flex items-center mt-4">
